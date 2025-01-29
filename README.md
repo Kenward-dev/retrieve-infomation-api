@@ -6,8 +6,8 @@ This is a simple REST API built with Django REST Framework that provides basic i
 
 1. Clone the repository:
    ```bash
-   git clone "https://github.com/Kenward-dev"
-   cd Kenward-dev
+   git clone "https://github.com/Kenward-dev/retrieve-infomation-api"
+   cd retrieve-infomation-api
    ```
 
 2. Create a virtual environment and activate it:
@@ -43,14 +43,13 @@ This is a simple REST API built with Django REST Framework that provides basic i
 {
     "email": "codewithkenward@gmail.com",
     "current_datetime": "2025-01-28T12:00:00Z",
-    "github_url": "https://github.com/Kenward-dev"
+    "github_url": "https://github.com/Kenward-dev/retrieve-infomation-api"
 }
 ```
 
 ### Example Usage
-```bash
-curl https://varying-juana-kenward-faf125f0.koyeb.app/
-```
+[Retrieve-Infor-API](https://varying-juana-kenward-faf125f0.koyeb.app/)
+
 
 ## Links
 - [HNG Python Developers](https://hng.tech/hire/python-developers)
