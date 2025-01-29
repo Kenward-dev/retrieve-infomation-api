@@ -8,7 +8,6 @@ import pytz
 class RetrieveBasicInfo(APIView):
     def get(self, request):
         data = {
-            //"status": 200,
             "email": "codewithkenward@gmail.com",
             "current_datetime": datetime.now(pytz.UTC).strftime("%Y-%m-%dT%H:%M:%SZ"),
             "github_url": "https://github.com/Kenward-dev/retrieve-infomation-api"
